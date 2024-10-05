@@ -1,13 +1,14 @@
 <h1>stepik-id-printer (h1)</h1>
-Это проект для вывода моего персонального идентификатора на образовательной платформе stepik.org .
+Это проект для вывода моего персонального идентификатора на образовательной платформе `stepik.org`.
 <h2>Возможности (h2)</h2>
 Данный проект имеет следующий функционал.
+
 - Выводит в **stdout** уникальный идентификатор.
 - Без зависимостей.
 - Простой.
 
 <h2>Запуск (h2)</h2>
-```
+```bash
 bash ./script.sh
 ```
 <h2>Портирование (h2)</h2>
@@ -16,7 +17,7 @@ bash ./script.sh
 
 Ha Java
 
-```
+```java
     class Main {
       public static void main (String[] args) {
         System.out.println("777");
@@ -26,7 +27,7 @@ Ha Java
 
 Ha C++
 
-```
+```cpp
   #include <iostream>
 
   using namespace std;
