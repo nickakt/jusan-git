@@ -1,5 +1,7 @@
 <h1>stepik-id-printer (h1)</h1>
 
+<img src="https://github.com/nickakt/TechOrda/blob/main/git/4%20branch/jusan-logo.png" width="128"/>
+
 Это проект для вывода моего персонального идентификатора и фамилии на образовательной платформе `stepik.org`.
 
 <h2>Возможности (h2)</h2>
