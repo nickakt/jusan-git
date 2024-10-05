@@ -16,7 +16,8 @@ bash ./script.sh
 
 Ha Java
 
-```class Main {
+```
+    class Main {
       public static void main (String[] args) {
         System.out.println("777");
       }
@@ -36,16 +37,13 @@ Ha C++
   }
 ```
 
-:bulb: Попробуйте реализовать на Python, Go и JavaScript.
+:bulb: `Попробуйте реализовать на Python, Go и JavaScript.`
 
 <h2>Контакты разработчика (h2)<h2>
 
 | **Платформа** |           **Ссылка**           | **Отвечу за** |
 | :-----------: | :----------------------------: | :-----------: |
 |     Почта     |  [Ссылка](https://gmail.org)   |    24 часа    |
-|    :-----:    |             :---:              |     :---:     |
 |   LinkedIn    | [Ссылка](https://linkedin.org) |    3 часа     |
-|    :-----:    |             :---:              |     :---:     |
 |   WhatsApp    | [Ссылка](https://whatsapp.org) |   30 минут    |
-|    :-----:    |             :---:              |     :---:     |
 |   Telegram    | [Ссылка](https://telegram.org) |    5 минут    |
